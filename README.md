@@ -1,2 +1,2 @@
 # Keylogger
-Simple program C++
+Keylogger with C++
